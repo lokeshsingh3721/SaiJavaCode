@@ -57,7 +57,7 @@
     <p>Passionate about Computer Science</p>
     <p>Full Stack Developer</p>
     <div class="cool-thing">
-      <p>Exploring the intersection of technology and creativity.</p>
+      <p>Exploring the intersection of technology and creativity</p>
     </div>
   </div>
 </body>
